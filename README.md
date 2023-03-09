@@ -1,5 +1,7 @@
-# FrontEnd-Mentor-Adivice-Generator
+# Advice Generator app
 
-This is a FrontEnd Mentor Challange; 
-<br>
-I have to create a simple Advice Generator, where you can randomly generate some good Advice.
+This project is the Solution of a <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub"> Front End Mentor challenge </a>
+
+<h2> Preview </h2>
+
+
