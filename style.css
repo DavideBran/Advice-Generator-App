@@ -109,3 +109,21 @@ hr{
     color: hsl(228, 45%, 44%); 
     text-decoration: none;
 }
+
+
+/* mobile Layout */
+
+@media (max-width: 376px) {
+    #first_half_container{
+        position: static;
+        transform: translate(0%, 50%);
+    }    
+
+    #advice-box{
+        width: 85%;
+    }
+
+    .flex_box_row{
+        top: 0;
+    }
+}
