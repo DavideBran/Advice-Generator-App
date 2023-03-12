@@ -4,7 +4,7 @@ This project is the Solution of a [FrontEnd Mentor challenge](https://www.fronte
 
 ## Preview 
 
-![App layout preview]
+![App layout preview](design/preview/Preview.png)
 
 
 
