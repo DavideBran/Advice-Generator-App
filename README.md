@@ -10,8 +10,8 @@ This project is the Solution of a [FrontEnd Mentor challenge](https://www.fronte
 
 ## Links 
 
-+ Live  [Preview](https://www.google.com/) </li>
-+ FrontEnd mentor [Page](https://www.google.com/)</li>
++ Live  [Preview]([https://www.google.com/](https://davidebran.github.io/Advice-Generator-App/)) 
++ FrontEnd mentor [Page](https://www.google.com/)
 
 ## Technologies 
 
